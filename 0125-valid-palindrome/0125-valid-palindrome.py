@@ -6,11 +6,10 @@ class Solution(object):
         """
         
         s=s.lower()
+        s1=""
         for i in s:
-            if i.isalnum() == False:
-                print(i)
-                s=s.replace(i,"")
-        print(s)
-        return s==s[::-1]
+            if i.isalnum():
+                s1+=i
+        return s1==s1[::-1]
                 
         
