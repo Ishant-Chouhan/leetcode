@@ -9,8 +9,8 @@ class Solution(object):
         total_apples=sum(apple)
         boxes=0
         while boxes < total_apples :
-            
-            boxes+=max(capacity)
-            capacity.pop(capacity.index(max(capacity)))
+            larger_box=max(capacity)
+            boxes+=larger_box
+            capacity.pop(capacity.index(larger_box))
 
         return lenght-len(capacity)
