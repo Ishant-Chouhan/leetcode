@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ishant-Chouhan/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant-Chouhan/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishant-Chouhan/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
@@ -64,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishant-Chouhan/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
