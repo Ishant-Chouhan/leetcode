@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ishant-Chouhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant-Chouhan/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ishant-Chouhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishant-Chouhan/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
 |  |
