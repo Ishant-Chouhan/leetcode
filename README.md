@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Ishant-Chouhan/leetcode/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/Ishant-Chouhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Ishant-Chouhan/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Ishant-Chouhan/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
