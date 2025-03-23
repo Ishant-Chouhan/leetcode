@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Ishant-Chouhan/leetcode/tree/master/0057-insert-interval) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
