@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishant-Chouhan/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant-Chouhan/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ishant-Chouhan/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3430-count-days-without-meetings](https://github.com/Ishant-Chouhan/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ishant-Chouhan/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Ishant-Chouhan/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3430-count-days-without-meetings](https://github.com/Ishant-Chouhan/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Depth-First Search
 |  |
 | ------- |
