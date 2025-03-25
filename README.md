@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Ishant-Chouhan/leetcode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/Ishant-Chouhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Ishant-Chouhan/leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant-Chouhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant-Chouhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant-Chouhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ishant-Chouhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant-Chouhan/leetcode/tree/master/2551-apply-operations-to-an-array) |
