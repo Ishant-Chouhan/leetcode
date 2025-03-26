@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishant-Chouhan/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishant-Chouhan/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant-Chouhan/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ishant-Chouhan/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Ishant-Chouhan/leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishant-Chouhan/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/Ishant-Chouhan/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Depth-First Search
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ishant-Chouhan/leetcode/tree/master/0164-maximum-gap) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
