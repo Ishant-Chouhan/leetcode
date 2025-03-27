@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Ishant-Chouhan/leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Ishant-Chouhan/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ishant-Chouhan/leetcode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/Ishant-Chouhan/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant-Chouhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ishant-Chouhan/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant-Chouhan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ishant-Chouhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ishant-Chouhan/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Ishant-Chouhan/leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ishant-Chouhan/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
