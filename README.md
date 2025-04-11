@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ishant-Chouhan/leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ishant-Chouhan/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ishant-Chouhan/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishant-Chouhan/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ishant-Chouhan/leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ishant-Chouhan/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ishant-Chouhan/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishant-Chouhan/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2681-put-marbles-in-bags](https://github.com/Ishant-Chouhan/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -136,9 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Ishant-Chouhan/leetcode/tree/master/0768-partition-labels) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ishant-Chouhan/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2681-put-marbles-in-bags](https://github.com/Ishant-Chouhan/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/Ishant-Chouhan/leetcode/tree/master/2681-put-marbles-in-bags) |
+## Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Ishant-Chouhan/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
