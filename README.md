@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ishant-Chouhan/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2050-count-good-numbers](https://github.com/Ishant-Chouhan/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Greedy
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ishant-Chouhan/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Ishant-Chouhan/leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
