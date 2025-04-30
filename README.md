@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ishant-Chouhan/leetcode/tree/master/0792-binary-search) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Ishant-Chouhan/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Ishant-Chouhan/leetcode/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Ishant-Chouhan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishant-Chouhan/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1656-count-good-triplets](https://github.com/Ishant-Chouhan/leetcode/tree/master/1656-count-good-triplets) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishant-Chouhan/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ishant-Chouhan/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Ishant-Chouhan/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Ishant-Chouhan/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ishant-Chouhan/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Greedy
