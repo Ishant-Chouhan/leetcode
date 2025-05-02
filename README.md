@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ishant-Chouhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishant-Chouhan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/Ishant-Chouhan/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Ishant-Chouhan/leetcode/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant-Chouhan/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ishant-Chouhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Ishant-Chouhan/leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Ishant-Chouhan/leetcode/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ishant-Chouhan/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ishant-Chouhan/leetcode/tree/master/0118-pascals-triangle) |
+| [0868-push-dominoes](https://github.com/Ishant-Chouhan/leetcode/tree/master/0868-push-dominoes) |
 ## Bucket Sort
 |  |
 | ------- |
