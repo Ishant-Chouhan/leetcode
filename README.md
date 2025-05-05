@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ishant-Chouhan/leetcode/tree/master/0118-pascals-triangle) |
+| [0806-domino-and-tromino-tiling](https://github.com/Ishant-Chouhan/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Ishant-Chouhan/leetcode/tree/master/0868-push-dominoes) |
 ## Bucket Sort
 |  |
